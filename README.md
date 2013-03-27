@@ -1,39 +1,12 @@
-[PHPixie](http://phpixie.com)
+Hollow
 =======
 
-PHPixie is a lightweight PHP MVC framework designed for 
-rapid development, speed and simplicty. By avoiding as
-much boilerplate code as possible it allows for better 
-understanding of what the framework actually does and
-amazing performance.
+Hollow is flat file blog script powered by PHPixie.
 
-You can learn it in under 30 minutes using this tutorial:
-[Learn PHPixie in 30 minutes](http://phpixie.com/tutorials/learn-phpixie-in-30-minutes/).
+To create a blogpost, just add a .md file to the /posts folder.
+To add a post category, just create a subfolder inside /posts and add your file there.
+Remember that GitHub has a very cool Markdown editor, so you can write posts using github alone.
 
-
-What to expect:
----------------
-
-* Very Lightweight
-
-  Avoids as much boilerplate as possible to reduce your webserver load.
-
-* Super Fast
-
-  PHPixie was designed with speed in mind to provide lightning fast performance. [source](http://phpixie.com/blog/php-framework-benchmark/)
-
-* Well documented
-
-  Thorough documentation for the entire application.
-
-* Rapid development
-
-  PHPixie gets out of the way and lets you write code the way you want.
-
-* Automagic
-
-  Automating key functions in the framework to facilitate a faster approach to application development.
-
-* Write your own code
-
-  PHPixie handles the foundation and lets you shape the rest any way you like.
+Hollow was created to create a multiplayer blogging platform. All posts submitted to this repo will appear
+at http://hollow.phpixie.com . If you feel more like coding than writing you can make Hollow better and make all the people who
+post blogposts happier.
